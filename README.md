@@ -23,7 +23,7 @@ export ANTHROPIC_API_KEY="your-api-key-here"
 ## Run the Sample
 
 ```bash
-python basic-agent-no-history.py
+python chat.py
 ```
 
 Once running, type a message and press Enter to get a response. Type `quit` to exit.
